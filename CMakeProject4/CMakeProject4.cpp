@@ -21,5 +21,5 @@ int main() {
 	swap(x, y);
 
 	std::cout << x << ", " << y << '\n';
+	std::cout << "smth new!!";
 }
-
